@@ -28,7 +28,7 @@ Este repositório contém um projeto de **Music Player** desenvolvido como parte
 ```
 
 ## 📸 Captura de Tela
-![Music Player](https://cdn.freecodecamp.org/curriculum/js-music-player/quincy-larson-album-art.jpg)
+![Music Player](![capa](https://github.com/user-attachments/assets/b807941d-a7ed-4dfd-8895-b8e35f1cdfa7))
 
 ## 🛠️ Como Executar
 1. Clone este repositório:

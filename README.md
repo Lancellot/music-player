@@ -28,7 +28,8 @@ Este repositório contém um projeto de **Music Player** desenvolvido como parte
 ```
 
 ## 📸 Captura de Tela
-![Music Player](![capa](https://github.com/user-attachments/assets/b807941d-a7ed-4dfd-8895-b8e35f1cdfa7))
+
+![capa](https://github.com/user-attachments/assets/3560de68-9ab1-41da-9d3f-f82305b6cdea)
 
 ## 🛠️ Como Executar
 1. Clone este repositório:
